@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AuditService/AuditService.iml" filepath="$PROJECT_DIR$/AuditService/AuditService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExamProject.iml" filepath="$PROJECT_DIR$/ExamProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Generator/Generator.iml" filepath="$PROJECT_DIR$/Generator/Generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QAGenerator/QAGenerator.iml" filepath="$PROJECT_DIR$/QAGenerator/QAGenerator.iml" />
+    </modules>
+  </component>
+</project>
